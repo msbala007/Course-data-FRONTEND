@@ -1,6 +1,6 @@
 MERN stack assignment
 
-1.Project Overview: This React application that fetches data from the following API https://localhost:4000/graphql and displays it in a list using apolloclient.
+1.Project Overview: This React application that fetches data from the following API http://localhost:4000/graphql and displays it in a list using apolloclient.
 
 2.Technologies Used: I have used such as React,material UI,apolloclient,etc for FRONTEND and node js,mongodb,graphql,apolloserver,mongoose for BACKEND 
 
