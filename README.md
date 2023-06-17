@@ -8,10 +8,10 @@ MERN stack assignment
 
 4.Dependencies and Versions: The dependencies used in this application, such asReact,material UI,apolloclient, node js,mongodb,graphql,apolloserver,mongoose
 
-5.Installation Steps: "yarn add https://github.com/msbala007/React-assignment-Auctopus-.git"
+5.Installation Steps: "yarn add https://github.com/msbala007/Course-data-FRONTEND.git"
 
 6.Available Scripts: scripts for run the application " yarn dev "
 
-7.Future Enhancements: For this moment we used dummy API.In future we can use REST API to this application for better features
+7.Future Enhancements: For this moment we can only do CRUD opertaion but in the future we can add authentication services.
 
 8.Conclusion Thank you
